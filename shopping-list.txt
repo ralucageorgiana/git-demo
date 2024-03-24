@@ -7,3 +7,4 @@ pui
 smantana 
 banane 
 mere
+papanasi
