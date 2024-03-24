@@ -5,6 +5,4 @@ lapte
 branza 
 pui 
 smantana 
-banane 
-mere
-papanasi
+banane
